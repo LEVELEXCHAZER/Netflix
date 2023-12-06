@@ -1,0 +1,17 @@
+.navimg{
+    width: 110px;
+    margin-left: 10px;
+    
+}
+
+.nav{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    
+    
+}
+
+.navblck{
+    background-color: black;
+}
